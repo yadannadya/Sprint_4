@@ -9,5 +9,4 @@ test_get_books_for_children — возвращает книги, которые 
 test_add_book_in_favorites — добавляет книгу в избранное. 
 test_delete_book_from_favorites — удаляет книгу из избранного
 test_get_list_of_favorites_books - выводит список, который содержит избранные книги.
-test_get_list_of_genre- выводит список, который содержит доступные жанры.
-test_get_list_of_genre_age_rating- выводит список, который содержит жанры с возрастным рейтингом.
+
